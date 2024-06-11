@@ -22,7 +22,8 @@
 
    <h2>📈 GitHub Stats</h2>
     <div>
-          https://github-readme-stats.vercel.app/api?username=sezerz1121&show_icons=true&theme=radical
+          ![Tatsam Vasava's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezerz1121&show_icons=true&theme=radical)
+
     </div>
 
    <h2>📫 Let's Connect</h2>
