@@ -1,4 +1,4 @@
-  <style>
+  
         .tech-stack {
             display: flex;
             flex-direction: column;
@@ -12,7 +12,7 @@
         .tech-stack img {
             margin-right: 10px;
         }
-    </style>   
+      
 
 <h1>Hi there, I'm Tatsam Vasava 👋</h1>
     <p>Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a knack for building dynamic, responsive, and user-friendly applications. I enjoy solving complex problems and continuously learning new technologies. Let's connect and create something amazing together!</p>
