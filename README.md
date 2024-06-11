@@ -18,27 +18,12 @@
         <div><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30"/> MongoDB</div>
 
 </div>
-    <h2>🛠️ Projects</h2>
-    <h3>Project Name</h3>
-    <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
-    <p>Tech Stack: React, Node.js, Express, MongoDB</p>
-    <p>Features: List key features or functionalities</p>
 
-   <h3>Another Project</h3>
-    <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
-    <p>Tech Stack: Vue.js, Firebase, Firestore</p>
-    <p>Features: List key features or functionalities</p>
-
-  <h2>🌱 What I'm Currently Learning</h2>
-    <p>I'm currently diving deeper into:</p>
-    <ul>
-        <li>TypeScript</li>
-        <li>GraphQL</li>
-        <li>Kubernetes</li>
-    </ul>
 
    <h2>📈 GitHub Stats</h2>
-    <!-- You can add your GitHub stats here using a GitHub stats widget -->
+    <div>
+          https://github-readme-stats.vercel.app/api?username=sezerz1121&show_icons=true&theme=radical
+    </div>
 
    <h2>📫 Let's Connect</h2>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
