@@ -37,6 +37,4 @@
 </div>
 
 <h2>📫 Let's Connect</h2>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
-<p>Twitter: <a href="https://twitter.com/your_twitter_handle">@your_twitter_handle</a></p>
-<p>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></p>
+<div><img src="https://img.icons8.com/color/48/000000/instagram.png" width="30"/> https://www.instagram.com/tatsam.dev/</div>
