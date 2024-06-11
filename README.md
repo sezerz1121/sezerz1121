@@ -21,7 +21,7 @@
 <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
 <ul>
     <li><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</li>
-    <li><strong>Features:</strong> Pdf genration</li>
+   <li><strong>Features:</strong> 📄 PDF Generation, 💰 Seamless Budget Creation with 📅 Date and ⏰ Time Tracking</li>
     <li><strong>Webiste:</strong> https://budget-buddyy-l92h.vercel.app</li>
 </ul>
 
