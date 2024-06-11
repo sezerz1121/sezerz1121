@@ -28,7 +28,7 @@
 <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
 <ul>
     <li><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</li>
-   <li><strong>Features:</strong> Ecommerce Website for Furniture 💻</li>
+   <li><strong>Features:</strong> Ecommerce Website for Furniture 🛒</li>
     <li><strong>Webiste:</strong> https://furniro-frontend.vercel.app/</li>
 </ul>
 
