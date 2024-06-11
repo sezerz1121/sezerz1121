@@ -16,9 +16,8 @@
         <div><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30"/> Python</div>
         <div><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="30"/> Java</div>
         <div><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30"/> MongoDB</div>
-        <div><img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> Docker</div>
-        <div><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/> AWS</div>
-    </div>
+
+</div>
     <h2>🛠️ Projects</h2>
     <h3>Project Name</h3>
     <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
