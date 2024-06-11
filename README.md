@@ -1,17 +1,4 @@
-  
-        .tech-stack {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-        }
-        .tech-stack div {
-            display: flex;
-            align-items: center;
-            margin-bottom: 10px;
-        }
-        .tech-stack img {
-            margin-right: 10px;
-        }
+
       
 
 <h1>Hi there, I'm Tatsam Vasava 👋</h1>
