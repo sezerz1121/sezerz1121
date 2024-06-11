@@ -24,6 +24,13 @@
    <li><strong>Features:</strong> 📄 PDF Generation, 💰 Seamless Budget Creation with 📅 Date and ⏰ Time Tracking</li>
     <li><strong>Webiste:</strong> https://budget-buddyy-l92h.vercel.app</li>
 </ul>
+<h3><a href="https://github.com/sezerz1121/FurniroFrontend">Furniro Furniture </a></h3>
+<p>Description: A brief description of the project, its purpose, and key technologies used.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</li>
+   <li><strong>Features:</strong> Ecommerce Website for Furniture 💻</li>
+    <li><strong>Webiste:</strong> https://furniro-frontend.vercel.app/</li>
+</ul>
 
 
 
