@@ -36,5 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezerz1121&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
-<h2>📫 Let's Connect</h2>
-<div><img src="https://img.icons8.com/color/48/000000/instagram.png" width="30"/> https://www.instagram.com/tatsam.dev/</div>
+<h2>📫 Let's Connect</h2><p>Instagram: <a href="https://www.instagram.com/tatsam.dev/"><img src="https://img.icons8.com/color/48/000000/instagram.png" width="30"/> tatsam.dev</a></p>
