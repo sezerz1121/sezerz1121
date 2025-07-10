@@ -17,6 +17,15 @@
 </div>
 
 <h2>🛠️ Projects</h2>
+
+<h3><a href="https://github.com/sezerz1121/NutriiVisionFrontend">Nutrii Vision</a></h3>
+<p>Description: A web app that allows users to upload food images and instantly get nutritional values, healthy recipes, and YouTube video suggestions using AI-powered image analysis.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Google Gemini API</li>
+    <li><strong>Features:</strong> Nutrition scanner, recipe generator, video suggestions 🍽️</li>
+    <li><strong>Website:</strong> https://nutrii-vision-frontend.vercel.app/</li>
+</ul>
+
 <h3><a href="https://github.com/sezerz1121/Budget-Buddyy">Budget buddyy</a></h3>
 <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
 <ul>
