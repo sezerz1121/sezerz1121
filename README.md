@@ -13,7 +13,6 @@
     <div><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30"/> Python</div>
     <div><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="30"/> Java</div>
     <div><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30"/> MongoDB</div>
-
 </div>
 
 <h2>🛠️ Projects</h2>
@@ -30,19 +29,25 @@
 <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
 <ul>
     <li><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</li>
-   <li><strong>Features:</strong> 📄 PDF Generation, 💰 Seamless Budget Creation with 📅 Date and ⏰ Time Tracking</li>
-    <li><strong>Webiste:</strong> https://budget-buddyy-l92h.vercel.app</li>
+    <li><strong>Features:</strong> 📄 PDF Generation, 💰 Seamless Budget Creation with 📅 Date and ⏰ Time Tracking</li>
+    <li><strong>Website:</strong> https://budget-buddyy-l92h.vercel.app</li>
 </ul>
-<h3><a href="https://github.com/sezerz1121/FurniroFrontend">Furniro Furniture </a></h3>
+
+<h3><a href="https://github.com/sezerz1121/FurniroFrontend">Furniro Furniture</a></h3>
 <p>Description: A brief description of the project, its purpose, and key technologies used.</p>
 <ul>
     <li><strong>Tech Stack:</strong> React, Node.js, Express, MongoDB</li>
-   <li><strong>Features:</strong> Ecommerce Website for Furniture 🛒</li>
-    <li><strong>Webiste:</strong> https://furniro-frontend.vercel.app/</li>
+    <li><strong>Features:</strong> Ecommerce Website for Furniture 🛒</li>
+    <li><strong>Website:</strong> https://furniro-frontend.vercel.app/</li>
 </ul>
 
-
-
+<h3><a href="https://github.com/sezerz1121/saved-frontend">Saved</a></h3>
+<p>Description: A minimalist tool that helps users quickly save and manage text links for later use. Perfect for bookmarking and lightweight reading lists.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> React, Express, MongoDB</li>
+    <li><strong>Features:</strong> 🔖 Save links, 🧠 Memory-safe notes, 📚 Quick access</li>
+    <li><strong>Website:</strong> https://saved-frontend.vercel.app/</li>
+</ul>
 
 <h2>📈 GitHub Stats</h2>
 <div>
@@ -52,5 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezerz1121&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
-<h2>📫 Let's Connect</h2><a href="https://www.instagram.com/tatsam.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tatsam.dev/" height="30" width="40" /></a>
-
+<h2>📫 Let's Connect</h2>
+<a href="https://www.instagram.com/tatsam.dev/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tatsam.dev Instagram" height="30" width="40" />
+</a>
